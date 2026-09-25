@@ -57,14 +57,14 @@ var mensajes = [
 ];
 
 var mensajesNombres = [
-  "Mamá, te quiero muchísimo",
-  "Mami, eres lo más bonito",
-  "Mamá, te amo con todo mi corazón",
-  "Mami, no te imaginas cuánto te quiero",
-  "Mamá, siempre serás mi alegría",
-  "Mami, eres mi tesoro",
-  "Mamá, te sonrío la vida",
-  "Mami, eres el regalo de mi vida"
+  "Carla y Arleth, las quiero muchísimo",
+  "Carla y Arleth, son lo más bonito",
+  "Carla y Arleth, las amo con todo mi corazón",
+  "Carla y Arleth, no se imaginan cuánto las quiero",
+  "Carla y Arleth, siempre serán mi alegría",
+  "Carla y Arleth, son mi tesoro",
+  "Carla y Arleth, les sonrío la vida",
+  "Carla y Arleth, son el regalo de mi vida"
 ];
 
 var ultimoNombre = -1;
